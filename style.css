@@ -155,5 +155,9 @@
     background-color:antiquewhite;
     background-image: url("walll.jpg");
     background-size: contain;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
+
 
