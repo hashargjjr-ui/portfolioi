@@ -62,7 +62,7 @@
     font-size: 20px;
     font-weight: 700;
     text-align: center;
-    background-color: red;
+    background-color: grey;
 }
 .list-items li{
     height: 100%;
@@ -77,6 +77,7 @@
     border-bottom:transparent;
     box-shadow: 0 0 10px 5px;
      transition: all 0.5s ease-in;
+     color:red;
 }
 .list-items li a{
     text-decoration: none;
@@ -159,6 +160,7 @@
     justify-content:center;
     align-items:center;
 }
+
 
 
 
