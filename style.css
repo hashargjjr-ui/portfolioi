@@ -44,7 +44,7 @@
     position:fixed;
     height: 100%;
     width: 270px;
-    background-color: red;
+    background-color: grey;
     overflow: hidden;
     left: -270px;
     transition: all 0.5s ease-in-out;
@@ -62,7 +62,7 @@
     font-size: 20px;
     font-weight: 700;
     text-align: center;
-    background-color: black;
+    background-color: red;
 }
 .list-items li{
     height: 100%;
@@ -159,6 +159,7 @@
     justify-content:center;
     align-items:center;
 }
+
 
 
 
