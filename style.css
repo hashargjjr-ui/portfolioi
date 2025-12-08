@@ -44,7 +44,7 @@
     position:fixed;
     height: 100%;
     width: 270px;
-    background-color: grey;
+    background-color: darkgrey;
     overflow: hidden;
     left: -270px;
     transition: all 0.5s ease-in-out;
@@ -62,7 +62,7 @@
     font-size: 20px;
     font-weight: 700;
     text-align: center;
-    background-color: grey;
+    background-color: darkgrey;
 }
 .list-items li{
     height: 100%;
@@ -76,8 +76,9 @@
      border-top:transparent;
     border-bottom:transparent;
     box-shadow: 0 0 10px 5px;
+   color: red;
      transition: all 0.5s ease-in;
-     color:red;
+     
 }
 .list-items li a{
     text-decoration: none;
@@ -160,6 +161,7 @@
     justify-content:center;
     align-items:center;
 }
+
 
 
 
