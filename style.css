@@ -113,7 +113,7 @@
     transition: all 0.3s ease-in;
 }
 .icons a:hover{
-    background-color: #333;
+    background-color: green;
 }.navebar{
     position: fixed;
    height: 60px;
@@ -161,6 +161,7 @@
     justify-content:center;
     align-items:center;
 }
+
 
 
 
